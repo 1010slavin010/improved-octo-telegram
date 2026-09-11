@@ -5,4 +5,6 @@ numpy<2.0
 Pillow
 plotly
 tensorflow-cpu==2.16.2
-# anthropic   # uncomment once you add an ANTHROPIC_API_KEY in st.secrets
+starlette
+uvicorn
+python-multipart
